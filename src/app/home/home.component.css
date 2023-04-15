@@ -1,0 +1,34 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .flex-container-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+  }
+  .flex-container-3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+  }
+  .logo{
+    margin: 20px;
+    width: 70px;
+
+  }
+  
+  #res{
+    margin: 20px;
+    height: 250px;
+
+  }
+  
